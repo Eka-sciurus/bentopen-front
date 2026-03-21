@@ -69,10 +69,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "bentopen:build:production"
+              "buildTarget": "bentopen-front:build:production"
             },
             "development": {
-              "buildTarget": "bentopen:build:development"
+              "buildTarget": "bentopen-front:build:development"
             }
           },
           "defaultConfiguration": "development"

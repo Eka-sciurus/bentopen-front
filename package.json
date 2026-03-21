@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:bentopen": "node dist/bentopen-front/server/server.mjs"
+    "serve:ssr:bentopen-front": "node dist/bentopen-front/server/server.mjs"
   },
   "private": true,
   "packageManager": "npm@11.9.0",
